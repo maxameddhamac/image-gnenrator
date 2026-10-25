@@ -1,0 +1,6 @@
+node_modules/
+.env
+gallery/
+npm-debug.log*
+.next/
+out/
